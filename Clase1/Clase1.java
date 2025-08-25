@@ -25,3 +25,5 @@ public class Clase1 {
         System.out.println(Arrays.toString(numeros));
 
     }
+
+}
